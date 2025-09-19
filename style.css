@@ -23,6 +23,7 @@ p{
     margin: 20px;
     padding-bottom: 10px;
     border-bottom: 1.5px solid #4d351825;
+    align-items: center;
 }
 h1{
     color: #4f3c24;
@@ -64,4 +65,5 @@ h2{
 }
 a{
     color: #242a0d;
+
 }
